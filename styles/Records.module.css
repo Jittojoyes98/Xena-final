@@ -1,0 +1,6 @@
+.half-maker{
+    @apply background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.abc{
+    color:rgba(rgb(241, 124, 124), rgb(0, 0, 0), rgb(0, 0, 0), alpha)
+}

@@ -1,0 +1,10 @@
+.nav li{
+    margin-right: 60px;
+}
+
+.nav{
+    background-color:  #f90066;
+    color: white;
+    display:flex;
+    
+}
